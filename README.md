@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akhand Pratap Shukla
 - 👀 I’m interested in GenAI, Computer Vision, MLops for GenAI, AutoML.
-- 🌱 I’m currently learning Backend using Flask and Machine Learning.
+- 🌱 I’m currently learning Machine Learning and Backend using Flask.
 - 💞️ I’m looking to collaborate on projects with a goal of solving the problems in Real-Time.
 - 📫 My LinkedIn: www.linkedin.com/in/akhand-pratap-shukla
 
