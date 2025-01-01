@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akhand Pratap Shukla
 - 👀 I’m interested in GenAI, Computer Vision, MLops for GenAI, AutoML, App Development.
-- 🌱 I’m currently learning Machine Learning and Backend.
-- 🔎 I’m currently researching on Feature Selection using Metaheuristic Algorithm.
+- 🌱 I’m learning Machine Learning and Backend.
+- 🔎 I’m researching on Feature Selection using Metaheuristic Algorithm.
 - 💞️ I’m looking to collaborate on projects with a goal of solving the problems in Real-Time.
 - 📫 My LinkedIn: www.linkedin.com/in/akhand-pratap-shukla
 
