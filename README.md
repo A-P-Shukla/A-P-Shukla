@@ -1,8 +1,18 @@
-- 👋 Hi, I’m Akhand Pratap Shukla
-- 👀 I’m interested in GenAI, Computer Vision, MLops for GenAI, AutoML, App Development.
-- 🌱 I’m learning Machine Learning and Backend.
-- 🔎 I’m researching on Feature Selection using Metaheuristic Algorithm.
-- 💞️ I’m looking to collaborate on projects with a goal of solving the problems in Real-Time.
+# 🤖 Akhand Pratap Shukla | Autonomous Portfolio
+
+> **Current Focus:** Loading focus...### 🛠️ Dynamic Tech Stack
+---
+
+### 🏆 Daily LeetCode Challenge
+| Problem # | Title | Status |
+| :--- | :--- | :--- |
+| -- | Waiting for next push... | ⏳ |
+### 📊 Project Intelligence (AI Categorized)
+### 📡 Latest Engineering Activity
+---
+<div align="center">
+  <sub><i>🔒 This profile is an Event-Driven Architecture. Manual edits are overwritten on every commit.</i></sub>
+</div>
 - 📫 My LinkedIn: www.linkedin.com/in/akhand-pratap-shukla
 
 <!---
