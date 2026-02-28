@@ -10,10 +10,12 @@
 ### 📊 Project Intelligence (AI Categorized)
 ### 📡 Latest Engineering Activity
 ---
+
+- 📫 My LinkedIn: www.linkedin.com/in/akhand-pratap-shukla
 <div align="center">
   <sub><i>🔒 This profile is an Event-Driven Architecture. Manual edits are overwritten on every commit.</i></sub>
 </div>
-- 📫 My LinkedIn: www.linkedin.com/in/akhand-pratap-shukla
+
 
 <!---
 A-P-Shukla/A-P-Shukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
