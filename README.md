@@ -1,6 +1,6 @@
 # 🤖 Akhand Pratap Shukla | Autonomous Portfolio
 
-> **Current Focus:** Loading focus...### 🛠️ Dynamic Tech Stack
+> **Current Focus:** Analyzing repositories...### 🛠️ Dynamic Tech Stack
 ---
 
 ### 🏆 Daily LeetCode Challenge
@@ -10,14 +10,8 @@
 ### 📊 Project Intelligence (AI Categorized)
 ### 📡 Latest Engineering Activity
 ---
+* 📫 **My LinkedIn:** [www.linkedin.com/in/akhand-pratap-shukla](https://www.linkedin.com/in/akhand-pratap-shukla)
 
-- 📫 My LinkedIn: www.linkedin.com/in/akhand-pratap-shukla
 <div align="center">
   <sub><i>🔒 This profile is an Event-Driven Architecture. Manual edits are overwritten on every commit.</i></sub>
 </div>
-
-
-<!---
-A-P-Shukla/A-P-Shukla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
