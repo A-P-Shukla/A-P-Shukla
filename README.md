@@ -21,7 +21,7 @@ _This developer is currently focused on building advanced AI agents and robust F
 | 🤖 Generative AI & LLM Orchestration | 👁️ Computer Vision & Applied ML | ⚙️ Backend & Systems Engineering |
 | :---: | :---: | :---: |
 | `7` Projects | `5` Projects | `11` Projects |
-| Gemini, LangChain, Python, LLM Agents | MediaPipe, YOLO, OpenCV, Flask | FastAPI, PostgreSQL, Node.js, Java |
+| Gemini,  LangChain | MediaPipe,  YOLO | FastAPI,  PostgreSQL |
 
 <!-- PROJECT_AI_END -->
 
@@ -29,12 +29,12 @@ _This developer is currently focused on building advanced AI agents and robust F
 <!-- LEETCODE_START -->
 | Problem | Title | Status |
 | :--- | :--- | :--- |
-| -- | Working on next problem... | ⏳ |
+| -- | Working on next challenge... | ⏳ |
 <!-- LEETCODE_END -->
 
 ### 📡 **Live Activity Feed**
 <!-- ACTIVITY_START -->
-> **Recent Push (Mar 2):** `System maintenance` in [**A-P-Shukla/LeetCode**](https://github.com/A-P-Shukla/LeetCode)
+> **Recent Activity (Mar 2):** `Waiting for project updates...` in [**Portfolio**](https://github.com/A-P-Shukla)
 <!-- ACTIVITY_END -->
 
 ---
