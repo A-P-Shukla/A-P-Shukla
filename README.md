@@ -3,7 +3,7 @@
 
 > **🧠 AI Insight:**
 <!-- FOCUS_START -->
-Analyzing engineering patterns...
+_This developer is currently focused on building advanced AI agents and robust FastAPI backends, integrating Large Language Models with real-time computer vision systems._
 <!-- FOCUS_END -->
 
 ---
@@ -17,18 +17,24 @@ Analyzing engineering patterns...
 
 ### 📊 **Project Intelligence**
 <!-- PROJECT_AI_START -->
+
+| 🤖 Generative AI & LLM Orchestration | 👁️ Computer Vision & Applied ML | ⚙️ Backend & Systems Engineering |
+| :---: | :---: | :---: |
+| `7` Projects | `5` Projects | `11` Projects |
+| Gemini, LangChain, Python, LLM Agents | MediaPipe, YOLO, OpenCV, Flask | FastAPI, PostgreSQL, Node.js, Java |
+
 <!-- PROJECT_AI_END -->
 
 ### 👨‍💻 **LeetCode Status**
 <!-- LEETCODE_START -->
 | Problem | Title | Status |
 | :--- | :--- | :--- |
-| -- | -- | ⏳ |
+| -- | Working on next problem... | ⏳ |
 <!-- LEETCODE_END -->
 
 ### 📡 **Live Activity Feed**
 <!-- ACTIVITY_START -->
-> Waiting for push...
+> **Recent Push (Mar 2):** `System maintenance` in [**A-P-Shukla/LeetCode**](https://github.com/A-P-Shukla/LeetCode)
 <!-- ACTIVITY_END -->
 
 ---
