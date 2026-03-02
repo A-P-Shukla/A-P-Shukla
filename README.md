@@ -3,7 +3,7 @@
 
 > **🧠 AI Insight:**
 <!-- FOCUS_START -->
-_Developing AI-driven agents and full-stack applications with a specialized focus on computer vision for accessibility and generative AI for automation._
+Analyzing engineering patterns...
 <!-- FOCUS_END -->
 
 ---
@@ -17,40 +17,29 @@ _Developing AI-driven agents and full-stack applications with a specialized focu
 
 ### 📊 **Project Intelligence**
 <!-- PROJECT_AI_START -->
-
-| 🤖 GenAI | 👁️ Vision | 📱 Mobile |
-| :---: | :---: | :---: |
-| `6` Projects | `3` Projects | `9` Projects |
-
 <!-- PROJECT_AI_END -->
 
 ### 👨‍💻 **LeetCode Status**
 <!-- LEETCODE_START -->
 | Problem | Title | Status |
 | :--- | :--- | :--- |
-| -- | Updates to main | 🚧 WIP |
+| -- | -- | ⏳ |
 <!-- LEETCODE_END -->
 
 ### 📡 **Live Activity Feed**
 <!-- ACTIVITY_START -->
-> **Update (Mar 2):** `Updates to main` in [**A-P-Shukla/LeetCode**](https://github.com/A-P-Shukla/LeetCode)
+> Waiting for push...
 <!-- ACTIVITY_END -->
 
 ---
 ### 🏆 **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=A-P-Shukla&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophy" />
-</p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=A-P-Shukla&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-P-Shukla&theme=radical&hide_border=false" alt="streak" />
-</p>
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-P-Shukla&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-P-Shukla&show_icons=true&count_private=true&theme=radical" alt="stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=compact&theme=radical" alt="langs" width="48%" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=A-P-Shukla&show_icons=true&count_private=true&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=compact&theme=radical)
 
 <div align="center">
   <sub><i>🤖 This profile is an Event-Driven Architecture. Manual edits are overwritten on every commit.</i></sub>
