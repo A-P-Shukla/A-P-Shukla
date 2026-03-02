@@ -3,7 +3,7 @@
 
 > **🧠 AI Insight:**
 <!-- FOCUS_START -->
-Analyzing engineering patterns...
+_Developing AI-driven agents and full-stack applications with a specialized focus on computer vision for accessibility and generative AI for automation._
 <!-- FOCUS_END -->
 
 ---
@@ -17,18 +17,23 @@ Analyzing engineering patterns...
 
 ### 📊 **Project Intelligence**
 <!-- PROJECT_AI_START -->
+
+| 🤖 GenAI | 👁️ Vision | 📱 Mobile |
+| :---: | :---: | :---: |
+| `6` Projects | `3` Projects | `9` Projects |
+
 <!-- PROJECT_AI_END -->
 
 ### 👨‍💻 **LeetCode Status**
 <!-- LEETCODE_START -->
 | Problem | Title | Status |
 | :--- | :--- | :--- |
-| -- | -- | ⏳ |
+| -- | Updates to main | 🚧 WIP |
 <!-- LEETCODE_END -->
 
 ### 📡 **Live Activity Feed**
 <!-- ACTIVITY_START -->
-> Waiting for push...
+> **Update (Mar 2):** `Updates to main` in [**A-P-Shukla/LeetCode**](https://github.com/A-P-Shukla/LeetCode)
 <!-- ACTIVITY_END -->
 
 ---
