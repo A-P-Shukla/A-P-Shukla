@@ -15,10 +15,10 @@
 <!-- TECH_END -->
 
 ### 🏆 Daily LeetCode Challenge
+<!-- LEETCODE_START -->
 | Problem # | Title | Status |
 | :--- | :--- | :--- |
-<!-- LEETCODE_START -->
-| -- | Working on new solutions... | ⏳ In Progress |
+| -- | Waiting for automation... | ⏳ |
 <!-- LEETCODE_END -->
 
 ### 📊 Project Intelligence (AI Categorized)
