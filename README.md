@@ -1,40 +1,50 @@
-# 🤖 Akhand Pratap Shukla | Autonomous Portfolio
+# ⚡ Hi, I'm Akhand Pratap Shukla
+![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue)
 
+> **🧠 AI Insight:**
 <!-- FOCUS_START -->
-_Developing AI-driven agents and computer vision applications for real-time translation and smart automation._
+Running analysis...
 <!-- FOCUS_END -->
 
-### 🛠️ Dynamic Tech Stack
 ---
-<!-- TECH_START -->
-<!-- TECH_END -->
 
-### 🏆 Daily LeetCode Challenge
-| Problem # | Title | Status |
-| :--- | :--- | :--- |
+### 🚀 **Engineering Stats**
+<!-- STATS_START -->
+<!-- STATS_END -->
+
+### 🛠️ **Tech Stack**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,react,flutter,nodejs,postgres,mongo,git,docker,tensorflow,pytorch,opencv,flask,fastapi&perline=14" />
+</div>
+
+---
+
+### 🏆 **Achievements**
+<div align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=A-P-Shukla&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</a>
+</div>
+
+### 📡 **Live Activity Feed**
+<!-- ACTIVITY_START -->
+> Waiting for next push...
+<!-- ACTIVITY_END -->
+
+### 👨‍💻 **LeetCode Status**
 <!-- LEETCODE_START -->
 | Problem | Title | Status |
 | :--- | :--- | :--- |
-| -- | System optimized | 🚧 WIP |
+| -- | -- | ⏳ |
 <!-- LEETCODE_END -->
 
-### 📊 Project Intelligence (AI Categorized)
-<!-- STATS_START -->
-
-| 🤖 GenAI | 👁️ Vision | 📱 Mobile/Web |
-| :---: | :---: | :---: |
-| `6` Projects | `3` Projects | `6` Projects |
-
-<!-- STATS_END -->
-
-### 📡 Latest Engineering Activity
----
-<!-- ACTIVITY_START -->
-> **Recent Push (Mar 2):** `System optimized` in [**A-P-Shukla/LeetCode**](https://github.com/A-P-Shukla/LeetCode)
-<!-- ACTIVITY_END -->
-
-* 📫 **My LinkedIn:** [www.linkedin.com/in/akhand-pratap-shukla](https://www.linkedin.com/in/akhand-pratap-shukla)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-P-Shukla&theme=radical&hide_border=false" alt="streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=A-P-Shukla&theme=radical&show_icons=true&count_private=true" alt="stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&theme=radical&hide_border=false&layout=compact" alt="langs" width="48%" />
+</div>
 
 <div align="center">
-  <sub><i>🔒 This profile is an Event-Driven Architecture. Manual edits are overwritten on every commit.</i></sub>
+  <sub><i>🤖 This profile is automatically updated by an Autonomous AI Agent on every commit.</i></sub>
 </div>
