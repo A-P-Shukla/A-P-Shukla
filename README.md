@@ -3,7 +3,7 @@
 
 > **🧠 AI Insight:**
 <!-- FOCUS_START -->
-_This developer is currently focused on building advanced AI agents and robust FastAPI backends, integrating Large Language Models with real-time computer vision systems._
+_This developer is currently specializing in Generative AI and Intelligent Agents, complemented by a robust background in Computer Vision and scalable Backend Engineering._
 <!-- FOCUS_END -->
 
 ---
@@ -18,10 +18,10 @@ _This developer is currently focused on building advanced AI agents and robust F
 ### 📊 **Project Intelligence**
 <!-- PROJECT_AI_START -->
 
-| 🤖 Generative AI & LLM Orchestration | 👁️ Computer Vision & Applied ML | ⚙️ Backend & Systems Engineering |
+| 🤖 Generative AI & LLM Orchestration | 👁️ Computer Vision & Applied ML | ⚙️ Backend Engineering & Systems |
 | :---: | :---: | :---: |
-| `7` Projects | `5` Projects | `11` Projects |
-| Gemini,  LangChain | MediaPipe,  YOLO | FastAPI,  PostgreSQL |
+| `6` Projects | `4` Projects | `13` Projects |
+| Google Gemini,  LangChain | MediaPipe,  YOLO | FastAPI,  Node.js |
 
 <!-- PROJECT_AI_END -->
 
