@@ -21,7 +21,7 @@ _This developer is currently focused on building advanced AI agents and robust F
 | 🤖 Generative AI & LLM Orchestration | 👁️ Computer Vision & Applied ML | ⚙️ Backend & Systems Engineering |
 | :---: | :---: | :---: |
 | `7` Projects | `5` Projects | `11` Projects |
-| Gemini | MediaPipe | FastAPI |
+| Gemini,  LangChain | MediaPipe,  YOLO | FastAPI,  PostgreSQL |
 
 <!-- PROJECT_AI_END -->
 
@@ -29,12 +29,12 @@ _This developer is currently focused on building advanced AI agents and robust F
 <!-- LEETCODE_START -->
 | Problem | Title | Status |
 | :--- | :--- | :--- |
-| -- | -- | ⏳ |
+| -- | Working on next problem... | ⏳ |
 <!-- LEETCODE_END -->
 
 ### 📡 **Live Activity Feed**
 <!-- ACTIVITY_START -->
-> **Recent Activity (Mar 2):** `System optimized` in [**Portfolio**](https://github.com/A-P-Shukla)
+> **Recent Activity (Mar 2):** `Developing autonomous agents` in [**Private_Research**](https://github.com/A-P-Shukla)
 <!-- ACTIVITY_END -->
 
 ---
