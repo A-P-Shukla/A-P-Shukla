@@ -10,21 +10,23 @@
 <!-- TECH_START -->
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,langchain,gemini,mediapipe,yolo,opencv,postgresql,machinelearning,cryptography,r,java&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,mediapipe,yolo,opencv,postgresql,cryptography,java&perline=12" />
 </div>
 <!-- TECH_END -->
 
 ### 🏆 Daily LeetCode Challenge
+| Problem # | Title | Status |
+| :--- | :--- | :--- |
 <!-- LEETCODE_START -->
 | Problem # | Title | Status |
 | :--- | :--- | :--- |
-| -- | Waiting for automation... | ⏳ |
+| -- | Working on solution... | 🚧 WIP |
 <!-- LEETCODE_END -->
 
 ### 📊 Project Intelligence (AI Categorized)
 <!-- STATS_START -->
 
-| 🧠 GenAI | 👁️ Computer Vision | 📱 App Dev |
+| 🧠 GenAI | 👁️ CV/ML | 📱 App Dev |
 | :---: | :---: | :---: |
 | **6** Projects | **3** Projects | **6** Projects |
 | Gemini Flash | OpenCV | FastAPI |
@@ -35,7 +37,7 @@
 ---
 <!-- ACTIVITY_START -->
 
-> 🚀 **Update (Mar 2):** Pushed `Code refactoring & improvements` to [**A-P-Shukla/LeetCode**](https://github.com/A-P-Shukla/LeetCode)
+> ⚡ **Recent Activity (Mar 2):** Pushed `Code updates` to [**A-P-Shukla/LeetCode**](https://github.com/A-P-Shukla/LeetCode)
 <!-- ACTIVITY_END -->
 
 * 📫 **My LinkedIn:** [www.linkedin.com/in/akhand-pratap-shukla](https://www.linkedin.com/in/akhand-pratap-shukla)
