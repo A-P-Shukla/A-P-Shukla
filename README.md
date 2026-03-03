@@ -45,7 +45,7 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=A-P-Shukla&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-P-Shukla&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![Streak](https://streak-stats.demolab.com/?user=A-P-Shukla&theme=radical&hide_border=false)]
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=A-P-Shukla&show_icons=true&count_private=true&theme=radical)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=compact&theme=radical)
