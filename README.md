@@ -3,7 +3,7 @@
 
 > **🧠 AI Insight:**
 <!-- FOCUS_START -->
-_This developer is currently focused on building advanced Generative AI agents and Computer Vision applications, backed by a solid foundation in asynchronous backend engineering and algorithmic problem-solving._
+_This developer is building a sophisticated portfolio centered on Generative AI agents and Computer Vision applications, backed by a deep academic foundation in algorithms and backend engineering._
 <!-- FOCUS_END -->
 
 ---
@@ -18,10 +18,10 @@ _This developer is currently focused on building advanced Generative AI agents a
 ### 📊 **Project Intelligence**
 <!-- PROJECT_AI_START -->
 
-| 🤖 Generative AI & LLM Agents | 👁️ Computer Vision & Applied ML | ⚙️ Backend Engineering & Analytics |
+| 🤖 Generative AI & Autonomous Agents | 👁️ Computer Vision & Applied ML | 💻 Software Engineering & CS Fundamentals |
 | :---: | :---: | :---: |
-| `6` Projects | `4` Projects | `13` Projects |
-| Google Gemini,  LangChain | MediaPipe,  YOLO | Python,  FastAPI |
+| `7` Projects | `3` Projects | `13` Projects |
+| Google Gemini,  LangChain | MediaPipe,  YOLO | Python,  Java |
 
 <!-- PROJECT_AI_END -->
 
@@ -34,7 +34,7 @@ _This developer is currently focused on building advanced Generative AI agents a
 
 ### 📡 **Live Activity Feed**
 <!-- ACTIVITY_START -->
-> **Recent Activity (Mar 2):** `Ongoing maintenance` in [**cryptography**](https://github.com/A-P-Shukla/cryptography)
+> **Recent Update (Mar 3):** `Active development` in [**cryptography**](https://github.com/A-P-Shukla/cryptography)
 <!-- ACTIVITY_END -->
 
 ---
@@ -42,12 +42,14 @@ _This developer is currently focused on building advanced Generative AI agents a
 <!-- FOOTER_START -->
 
 <div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=A-P-Shukla&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="trophy" /></a>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=A-P-Shukla&theme=radical&hide_border=false" alt="streak" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=A-P-Shukla&show_icons=true&count_private=true&theme=radical" alt="stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=compact&theme=radical" alt="langs" width="48%" />
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=A-P-Shukla&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=A-P-Shukla&theme=radical&hide_border=false)](https://git.io/streak-stats)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=A-P-Shukla&show_icons=true&count_private=true&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=compact&theme=radical)
+
 </div>
 <!-- FOOTER_END -->
 
