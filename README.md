@@ -38,6 +38,9 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 <!-- ACTIVITY_END -->
 
 ---
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=A-P-Shukla&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 ### 🏆 **GitHub Stats**
 <!-- FOOTER_START -->
 
