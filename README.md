@@ -25,11 +25,8 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 
 <!-- PROJECT_AI_END -->
 
-<!-- LEETCODE_START -->
 ### 👨‍💻 **LeetCode Status**
 * **⏳:** Working on the next challenge...
-<!-- LEETCODE_END -->
-
 ### 📡 **Live Activity Feed**
 * **⏳:** Fetching latest engineering logs...
 
