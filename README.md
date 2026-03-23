@@ -25,17 +25,13 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 
 <!-- PROJECT_AI_END -->
 
-### 👨‍💻 **LeetCode Status**
 <!-- LEETCODE_START -->
-| Problem | Title | Status |
-| :--- | :--- | :--- |
-| -- | Working on next problem... | ⏳ |
+### 👨‍💻 **LeetCode Status**
+* **⏳:** Working on the next challenge...
 <!-- LEETCODE_END -->
 
 ### 📡 **Live Activity Feed**
-<!-- ACTIVITY_START -->
-> **Recent Update (Mar 3):** `Active development` in [**cryptography**](https://github.com/A-P-Shukla/cryptography)
-<!-- ACTIVITY_END -->
+* **⏳:** Fetching latest engineering logs...
 
 ---
 
