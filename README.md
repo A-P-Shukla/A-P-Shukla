@@ -54,7 +54,7 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 </p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=A-P-Shukla&show_icons=true&count_private=true&theme=radical)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut)]
 
 </div>
 <!-- FOOTER_END -->
