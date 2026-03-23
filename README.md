@@ -24,12 +24,12 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 | Google Gemini,  LangChain | MediaPipe,  YOLO | Python,  Java |
 
 <!-- PROJECT_AI_END -->
-
+```
 ### 👨‍💻 **LeetCode Status**
 * **⏳:** Working on the next challenge...
 ### 📡 **Live Activity Feed**
 * **⏳:** Fetching latest engineering logs...
-
+```
 ---
 
 ### 📈 Contribution Activity
