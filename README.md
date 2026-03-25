@@ -17,12 +17,7 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 | :---: | :---: | :---: |
 | `7` Projects | `3` Projects | `13` Projects |
 | Google Gemini,  LangChain | MediaPipe,  YOLO | Python,  Java |
-``
-### 👨‍💻 **LeetCode Status**
-* **⏳:** Working on the next challenge...
-### 📡 **Live Activity Feed**
-* **⏳:** Fetching latest engineering logs...
-``
+
 ---
 
 ### 📈 Contribution Activity
