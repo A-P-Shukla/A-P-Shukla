@@ -20,13 +20,15 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 
 ---
 
+#### 🧩 Latest LeetCode Solve
+`Loading latest commit...`
+
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-P-Shukla&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ### 🏆 **GitHub Stats**
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=A-P-Shukla&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔥 Streak Statistics
 <p align="center">
@@ -34,7 +36,7 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 </p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=A-P-Shukla&show_icons=true&count_private=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=radical)
 
 </div>
 <div align="center">
