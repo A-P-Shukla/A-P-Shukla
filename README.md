@@ -2,12 +2,16 @@
 
 <!-- LEETCODE_START -->
 ### Latest LeetCode Solution
-_This section will be automatically updated._
+- [1.Two Sum.cpp](https://github.com/A-P-Shukla/LeetCode/blob/main/1.Two%20Sum.cpp)
 <!-- LEETCODE_END -->
 
 <!-- ACTIVITY_START -->
 ### Recent GitHub Activity
-_This section will be automatically updated._
+- Committed to a private repository (Omni-Browser-Agent)
+- Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat: implement base layout, custom CSS, and post templates
+- Committed to a private repository (Full-Stack)
+- Committed to [cryptography](https://github.com/A-P-Shukla/cryptography): feat: Initialize cryptography toolkit with core modules
+- Committed to [gallaudet](https://github.com/A-P-Shukla/gallaudet): Create GNU AFFERO GENERAL PUBLIC LICENSE Version 3
 <!-- ACTIVITY_END -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue)
