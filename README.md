@@ -41,24 +41,34 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-P-Shukla&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-### 🏆 **GitHub Stats**
-
-<div align="center">
-
-### 🔥 Streak Statistics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-P-Shukla&theme=tokyonight&hide_border=true"/>
+  <a href="https://komarev.com/ghpvc/?username=A-P-Shukla">
+    <img src="https://komarev.com/ghpvc/?username=A-P-Shukla&label=Profile%20views&color=00FFFF&style=flat-square" alt="A-P-Shukla's profile views" />
+  </a>
 </p>
 
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-P-Shukla&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="A-P-Shukla's GitHub Stats" />
+  <a href="https://github.com/A-P-Shukla">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-P-Shukla&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="A-P-Shukla's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=A-P-Shukla&theme=dark&hide_border=true&cache_seconds=86400" alt="A-P-Shukla's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=A-P-Shukla&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
 </p>
 
+
+## 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=tokyonight&hide_border=true" alt="A-P-Shukla's Top Languages" />
+  <a href="https://github.com/A-P-Shukla">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A-P-Shukla&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
-</div>
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
+
 
 <div align="center">
   <sub><i>🤖 This profile is an Event-Driven Architecture. Manual edits are overwritten on every commit.</i></sub>
