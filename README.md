@@ -7,11 +7,11 @@
 
 <!-- ACTIVITY_START -->
 ### Recent GitHub Activity
-- Committed to a private repository (Omni-Browser-Agent)
-- Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat: implement base layout, custom CSS, and post templates
-- Committed to a private repository (Full-Stack)
-- Committed to [cryptography](https://github.com/A-P-Shukla/cryptography): feat: Initialize cryptography toolkit with core modules
-- Committed to [gallaudet](https://github.com/A-P-Shukla/gallaudet): Create GNU AFFERO GENERAL PUBLIC LICENSE Version 3
+- Committed to a private repository: Restructured documentation with new branding and feature table
+- Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): Implemented base layout, custom CSS, and post templates
+- Committed to a private repository: Added ESLint configuration for backend
+- Committed to [cryptography](https://github.com/A-P-Shukla/cryptography): Initialized cryptography toolkit with core modules
+- Committed to [gallaudet](https://github.com/A-P-Shukla/gallaudet): Created GNU AFFERO GENERAL PUBLIC LICENSE Version 3
 <!-- ACTIVITY_END -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue)
