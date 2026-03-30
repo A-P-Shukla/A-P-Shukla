@@ -1,4 +1,24 @@
 # ⚡ Hi, I'm Akhand Pratap Shukla
+
+<!-- LEETCODE_START -->
+### Latest LeetCode Solution
+_This section will be automatically updated._
+<!-- LEETCODE_END -->
+
+<!-- ACTIVITY_START -->
+### Recent GitHub Activity
+_This section will be automatically updated._
+<!-- ACTIVITY_END -->
+
+<!-- LEETCODE_START -->
+### Latest LeetCode Solution
+_This section will be automatically updated._
+<!-- LEETCODE_END -->
+
+<!-- ACTIVITY_START -->
+### Recent GitHub Activity
+_This section will be automatically updated._
+<!-- ACTIVITY_END -->
 ![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue)
 
 > **🧠 AI Insight:**
