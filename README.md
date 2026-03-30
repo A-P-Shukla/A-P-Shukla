@@ -50,8 +50,13 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-P-Shukla&theme=tokyonight&hide_border=true"/>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=A-P-Shukla&show_icons=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=A-P-Shukla&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="A-P-Shukla's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=tokyonight&hide_border=true" alt="A-P-Shukla's Top Languages" />
+</p>
 
 </div>
 
