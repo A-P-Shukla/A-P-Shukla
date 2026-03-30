@@ -62,7 +62,7 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 ## 🛠️ Languages & Tools
 <p align="center">
   <a href="https://github.com/A-P-Shukla">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A-P-Shukla&langs_count=8&layout=compact&theme=dark&border_radius=10&private=true" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=radical" alt="Top Languages" />
   </a>
 </p>
 
