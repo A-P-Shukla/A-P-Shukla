@@ -2,22 +2,30 @@
 
 <!-- LEETCODE_START -->
 ### Latest LeetCode Solution
-_This section will be automatically updated._
+- [solution.cpp](https://github.com/A-P-Shukla/LeetCode/blob/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/solution.cpp)
 <!-- LEETCODE_END -->
 
 <!-- ACTIVITY_START -->
 ### Recent GitHub Activity
-_This section will be automatically updated._
+- Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat: implement base layout, custom CSS, and post templates while removing obsolete post_finished file
+- Committed to [gallaudet](https://github.com/A-P-Shukla/gallaudet): Create GNU AFFERO GENERAL PUBLIC LICENSE Version 3
+- Committed to [Gallaudet-Base](https://github.com/A-P-Shukla/Gallaudet-Base): Add MIT License to the project
+- Committed to [cryptography](https://github.com/A-P-Shukla/cryptography): feat: Initialize cryptography toolkit with core modules
+- Committed to [SpartanAudit](https://github.com/A-P-Shukla/SpartanAudit): fix: decouple db sessions from ai logic to prevent connection reset
 <!-- ACTIVITY_END -->
 
 <!-- LEETCODE_START -->
 ### Latest LeetCode Solution
-_This section will be automatically updated._
+- [solution.cpp](https://github.com/A-P-Shukla/LeetCode/blob/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/solution.cpp)
 <!-- LEETCODE_END -->
 
 <!-- ACTIVITY_START -->
 ### Recent GitHub Activity
-_This section will be automatically updated._
+- Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat: implement base layout, custom CSS, and post templates while removing obsolete post_finished file
+- Committed to [gallaudet](https://github.com/A-P-Shukla/gallaudet): Create GNU AFFERO GENERAL PUBLIC LICENSE Version 3
+- Committed to [Gallaudet-Base](https://github.com/A-P-Shukla/Gallaudet-Base): Add MIT License to the project
+- Committed to [cryptography](https://github.com/A-P-Shukla/cryptography): feat: Initialize cryptography toolkit with core modules
+- Committed to [SpartanAudit](https://github.com/A-P-Shukla/SpartanAudit): fix: decouple db sessions from ai logic to prevent connection reset
 <!-- ACTIVITY_END -->
 ![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue)
 
