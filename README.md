@@ -2,16 +2,16 @@
 
 <!-- LEETCODE_START -->
 ### Latest LeetCode Solution
-- [2840 - Check if Strings Can be Made Equal With Operations II](https://github.com/A-P-Shukla/LeetCode/blob/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/solution.cpp)
+- [3474 - Lexicographically Smallest Generated String](https://github.com/A-P-Shukla/LeetCode/blob/main/3474-lexicographically-smallest-generated-string/solution.cpp)
 <!-- LEETCODE_END -->
 
 <!-- ACTIVITY_START -->
 ### Recent GitHub Activity
+- Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): Implemented complete user CRUD operations with validation
+- Committed to a private repository: Set up bloglist backend with modular Express and MongoDB
+- Committed to a private repository: Initialized portfolio project with core components, UI library, and page layouts
+- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): Added solution for 3474 - Lexicographically Smallest Generated String
 - Committed to a private repository: Restructured documentation with new branding and feature table
-- Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): Implemented base layout, custom CSS, and post templates
-- Committed to a private repository: Added ESLint configuration for backend
-- Committed to [cryptography](https://github.com/A-P-Shukla/cryptography): Initialized cryptography toolkit with core modules
-- Committed to [gallaudet](https://github.com/A-P-Shukla/gallaudet): Created GNU AFFERO GENERAL PUBLIC LICENSE Version 3
 <!-- ACTIVITY_END -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue)
@@ -48,26 +48,25 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 </p>
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <a href="https://github.com/A-P-Shukla">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-P-Shukla&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="A-P-Shukla's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=A-P-Shukla&theme=dark&hide_border=true&cache_seconds=86400" alt="A-P-Shukla's GitHub Streak" width="49%" />
 </p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=A-P-Shukla&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
 </p>
 
-
 ## 🛠️ Languages & Tools
+
 <p align="center">
   <a href="https://github.com/A-P-Shukla">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=radical" alt="Top Languages" />
   </a>
 </p>
-
-
-
 
 <div align="center">
   <sub><i>🤖 This profile is an Event-Driven Architecture. Manual edits are overwritten on every commit.</i></sub>
