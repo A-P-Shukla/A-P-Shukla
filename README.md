@@ -59,7 +59,7 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
   <a href="https://github.com/A-P-Shukla">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-P-Shukla&cache_seconds=7200&layout=compact&theme=dark&border_radius=10&cb=1775016104" alt="A-P-Shukla's GitHub Stats" />
   </a>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=A-P-Shukla&theme=dark&border_radius=0" alt="GitHub Streak" /></a>
+  <a href="https://github-readme-stats-tau-five-34.vercel.app/streak-stats"><img src="https://streak-stats.demolab.com?user=A-P-Shukla&theme=dark&border_radius=0" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 
 <p align="center">
   <a href="https://github.com/A-P-Shukla">
-    <img height="180em" src="https://github-readme-stats-tau-five-34.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=radical&cb=1775016104&langs_count=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-tau-five-34.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=radical&cb=1775016104&langs_count=6" alt="Top Languages" />
   </a>
 </p>
 
