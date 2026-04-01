@@ -12,6 +12,11 @@
 
 <!-- ACTIVITY_START -->
 ### Recent GitHub Activity
+- Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat(posts): add post creation modal and enforce descending date ordering
+- Committed to [A-P-Shukla](https://github.com/A-P-Shukla/A-P-Shukla): Update README.md
+- Committed to a private repository: Initial commit
+- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): feat: add solution for 2751 - Robot Collisions
+- Committed to a private repository: Prevent hydration mismatch in LiveSystemStats
 - Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): Implemented complete user CRUD operations with validation
 - Committed to a private repository: Set up bloglist backend with modular Express and MongoDB
 - Committed to a private repository: Initialized portfolio project with core components, UI library, and page layouts
@@ -19,7 +24,7 @@
 - Committed to a private repository: Restructured documentation with new branding and feature table
 <!-- ACTIVITY_END -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue&cb=1775016104)
+![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue&cb=1775040481)
 
 > **🧠 AI Insight:**
 _This developer is building a sophisticated portfolio centered on Generative AI agents and Computer Vision applications, backed by a deep academic foundation in algorithms and backend engineering._
@@ -49,7 +54,7 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=A-P-Shukla">
-    <img src="https://komarev.com/ghpvc/?username=A-P-Shukla&label=Profile%20views&color=00FFFF&style=flat-square&cb=1775016104" alt="A-P-Shukla's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=A-P-Shukla&label=Profile%20views&color=00FFFF&style=flat-square&cb=1775040481" alt="A-P-Shukla's profile views" />
   </a>
 </p>
 
@@ -57,20 +62,20 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 
 <p align="center">
   <a href="https://github.com/A-P-Shukla">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-P-Shukla&cache_seconds=7200&layout=compact&theme=dark&border_radius=10&cb=1775016104" alt="A-P-Shukla's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-P-Shukla&cache_seconds=7200&layout=compact&theme=dark&border_radius=10&cb=1775040481" alt="A-P-Shukla's GitHub Stats" />
   </a>
   <a href="https://github-readme-stats-tau-five-34.vercel.app/streak-stats"><img src="https://github-readme-stats-tau-five-34.vercel.app?user=A-P-Shukla&theme=dark&border_radius=0" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=A-P-Shukla&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400&cb=1775016104" alt="'s GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=A-P-Shukla&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400&cb=1775040481" alt="'s GitHub Trophies" />
 </p>
 
 ## 🛠️ Languages & Tools
 
 <p align="center">
   <a href="https://github.com/A-P-Shukla">
-    <img height="180em" src="https://github-readme-stats-tau-five-34.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=radical&cb=1775016104&langs_count=6&card_width=300&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-tau-five-34.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=radical&cb=1775040481&langs_count=6&card_width=300&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   </a>
 </p>
 
