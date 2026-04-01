@@ -43,11 +43,6 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 
 ---
 
-### 📈 Real-time Skill Proficiency
-![TypeScript](https://img.shields.io/badge/TypeScript-49%25-blue) ![Python](https://img.shields.io/badge/Python-21%25-yellow) ![HTML](https://img.shields.io/badge/HTML-15%25-red) ![JavaScript](https://img.shields.io/badge/JavaScript-5%25-yellow) ![C++](https://img.shields.io/badge/C%2B%2B-5%25-blue) ![C](https://img.shields.io/badge/C-3%25-grey) ![CSS](https://img.shields.io/badge/CSS-3%25-blue)
-
-
----
 
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-P-Shukla&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
