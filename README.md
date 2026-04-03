@@ -12,6 +12,11 @@
 
 <!-- ACTIVITY_START -->
 ### Recent GitHub Activity
+- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): feat: add Python solution for 3661 - Maximum Walls Destroyed by Robots
+- Committed to a private repository: refactor: migrate monolith to modular package structure and add CI workflow
+- Committed to a private repository: feat(components): add animation, loading, and advanced UI components
+- Committed to [A-P-Shukla](https://github.com/A-P-Shukla/A-P-Shukla): Update README.md
+- Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat(posts): add post creation modal and enforce descending date ordering
 - Committed to [A-P-Shukla](https://github.com/A-P-Shukla/A-P-Shukla): Manual update: Refresh LeetCode, Activity, and Focus
 - Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): feat: add Python solution for 3418 - Maximum Amount of Money Robot Can Earn
 - Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat(posts): add post creation modal and enforce descending date ordering
@@ -19,7 +24,7 @@
 - Committed to a private repository: Prevent hydration mismatch in LiveSystemStats
 <!-- ACTIVITY_END -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue&cb=1775118849)
+![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue&cb=1775189003)
 
 > **🧠 AI Insight:**
 _This developer is building a sophisticated portfolio centered on Generative AI agents and Computer Vision applications, backed by a deep academic foundation in algorithms and backend engineering._
@@ -48,7 +53,7 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=A-P-Shukla">
-    <img src="https://komarev.com/ghpvc/?username=A-P-Shukla&label=Profile%20views&color=00FFFF&style=flat-square&cb=1775118849" alt="A-P-Shukla's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=A-P-Shukla&label=Profile%20views&color=00FFFF&style=flat-square&cb=1775189003" alt="A-P-Shukla's profile views" />
   </a>
 </p>
 
@@ -56,13 +61,13 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 
 <p align="center">
   <a href="https://github.com/A-P-Shukla">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-P-Shukla&cache_seconds=7200&layout=compact&theme=dark&border_radius=10&cb=1775118849" alt="A-P-Shukla's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-P-Shukla&cache_seconds=7200&layout=compact&theme=dark&border_radius=10&cb=1775189003" alt="A-P-Shukla's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=A-P-Shukla&theme=dark&hide_border=true&cache_seconds=86400&cb=1775118849" alt="A-P-Shukla's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=A-P-Shukla&theme=dark&hide_border=true&cache_seconds=86400&cb=1775189003" alt="A-P-Shukla's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=A-P-Shukla&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400&cb=1775118849" alt="'s GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=A-P-Shukla&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400&cb=1775189003" alt="'s GitHub Trophies" />
 </p>
 
 ## 🛠️ Languages & Tools
