@@ -15,7 +15,7 @@
 - Committed to a private repository: Add blog list helpers and tests
 - Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat(auth): implement JWT token generation and password hashing utilities
 - Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): feat: add Python solution for 874 - Walking Robot Simulation
-- Committed to a private repository: Merge branch 'main' of https://github.com/A-P-Shukla/Omni-Browser-Agent
+- Committed to a private repository: Merge branch 'main' of Omni-Browser-Agent
 - Committed to a private repository: feat(components): add animation, loading, and advanced UI components
 <!-- ACTIVITY_END -->
 
