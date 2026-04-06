@@ -2,24 +2,24 @@
 
 <!-- FOCUS_START -->
 ### 🎯 Current Focus
-- **Currently working on:** Working on [LeetCode](https://github.com/A-P-Shukla/LeetCode): My solutions on the Leetcode. Trying to update Daily.
+- **Currently working on:** Working on a private repository: Add blog list helpers and tests
 <!-- FOCUS_END -->
 
 <!-- LEETCODE_START -->
 ### Latest LeetCode Solution
-- [2075-decode-the-slanted-ciphertext](https://github.com/A-P-Shukla/LeetCode/blob/main/2075-decode-the-slanted-ciphertext/solution.py)
+- [874-walking-robot-simulation](https://github.com/A-P-Shukla/LeetCode/blob/main/874-walking-robot-simulation/solution.py)
 <!-- LEETCODE_END -->
 
 <!-- ACTIVITY_START -->
 ### Recent GitHub Activity
-- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): feat: add Python solution for 2075 - Decode the Slanted Ciphertext
-- Committed to a private repository: refactor(core): migrate LLM providers to browser-use native models and remove compatibility patches
+- Committed to a private repository: Add blog list helpers and tests
+- Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat(auth): implement JWT token generation and password hashing utilities
+- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): feat: add Python solution for 874 - Walking Robot Simulation
+- Committed to a private repository: Merge branch 'main' of https://github.com/A-P-Shukla/Omni-Browser-Agent
 - Committed to a private repository: feat(components): add animation, loading, and advanced UI components
-- Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat(posts): add post creation modal and enforce descending date ordering
-- Committed to a private repository: Initial commit
 <!-- ACTIVITY_END -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue&cb=1775301089)
+![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue&cb=1775498523)
 
 > **🧠 AI Insight:**
 _This developer is building a sophisticated portfolio centered on Generative AI agents and Computer Vision applications, backed by a deep academic foundation in algorithms and backend engineering._
@@ -48,7 +48,7 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=A-P-Shukla">
-    <img src="https://komarev.com/ghpvc/?username=A-P-Shukla&label=Profile%20views&color=00FFFF&style=flat-square&cb=1775301089" alt="A-P-Shukla's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=A-P-Shukla&label=Profile%20views&color=00FFFF&style=flat-square&cb=1775498523" alt="A-P-Shukla's profile views" />
   </a>
 </p>
 
@@ -56,20 +56,20 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 
 <p align="center">
   <a href="https://github.com/A-P-Shukla">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-P-Shukla&cache_seconds=7200&layout=compact&theme=dark&border_radius=10&cb=1775301089" alt="A-P-Shukla's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-P-Shukla&cache_seconds=7200&layout=compact&theme=dark&border_radius=10&cb=1775498523" alt="A-P-Shukla's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=A-P-Shukla&theme=dark&hide_border=true&cache_seconds=86400&cb=1775301089" alt="A-P-Shukla's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=A-P-Shukla&theme=dark&hide_border=true&cache_seconds=86400&cb=1775498523" alt="A-P-Shukla's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=A-P-Shukla&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400&cb=1775301089" alt="'s GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=A-P-Shukla&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400&cb=1775498523" alt="'s GitHub Trophies" />
 </p>
 
 ## 🛠️ Languages & Tools
 
 <p align="center">
   <a href="https://github.com/A-P-Shukla">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=radical&cb=1775301089" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=radical&cb=1775498523" alt="Top Languages" />
   </a>
 </p>
 
