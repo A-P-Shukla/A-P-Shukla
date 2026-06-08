@@ -2,24 +2,24 @@
 
 <!-- FOCUS_START -->
 ### 🎯 Current Focus
-- **Currently working on:** [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat: add password reset routes and include PasswordResetToken in database cleanup
+- **Currently working on:** [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat: add comprehensive tests for /api/posts and /api/users endpoints with various scenarios
 <!-- FOCUS_END -->
 
 <!-- LEETCODE_START -->
 ### Latest LeetCode Solution
-- [2126-destroying-asteroids](https://github.com/A-P-Shukla/LeetCode/blob/main/2126-destroying-asteroids/solution.py)
+- [2161-partition-array-according-to-given-pivot](https://github.com/A-P-Shukla/LeetCode/blob/main/2161-partition-array-according-to-given-pivot/solution.py)
 <!-- LEETCODE_END -->
 
 <!-- ACTIVITY_START -->
 ### Recent GitHub Activity
-- Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat: add password reset routes and include PasswordResetToken in database cleanup
-- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): feat: add Python solution for 2126 - Destroying Asteroids
+- Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat: add comprehensive tests for /api/posts and /api/users endpoints with various scenarios
+- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): docs: add explanation for 2161 - Partition Array According to Given Pivot
+- Committed to [RAG](https://github.com/A-P-Shukla/RAG): feat: implement document loaders for text, web, directory, and PDF files
 - Committed to a private repository: feat: initialize monorepo with Next.js frontend and FastAPI backend project structure
-- Committed to [RAG](https://github.com/A-P-Shukla/RAG): Testing
 - Committed to a private repository: feat: add PII detection rules, FastAPI middleware, and registry logic with updated documentation and audit report
 <!-- ACTIVITY_END -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue&cb=1780232552)
+![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue&cb=1780923712)
 
 > **🧠 AI Insight:**
 _This developer is building a sophisticated portfolio centered on Generative AI agents and Computer Vision applications, backed by a deep academic foundation in algorithms and backend engineering._
@@ -44,11 +44,11 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 ---
 
 ### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=A-P-Shukla&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&cb=1780232552"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=A-P-Shukla&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&cb=1780923712"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=A-P-Shukla">
-    <img src="https://komarev.com/ghpvc/?username=A-P-Shukla&label=Profile%20views&color=00FFFF&style=flat-square&cb=1780232552" alt="A-P-Shukla's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=A-P-Shukla&label=Profile%20views&color=00FFFF&style=flat-square&cb=1780923712" alt="A-P-Shukla's profile views" />
   </a>
 </p>
 
@@ -56,20 +56,20 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 
 <p align="center">
   <a href="https://github.com/A-P-Shukla">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-P-Shukla&cache_seconds=7200&layout=compact&theme=dark&border_radius=10&cb=1780232552" alt="A-P-Shukla's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=A-P-Shukla&cache_seconds=7200&layout=compact&theme=dark&border_radius=10&cb=1780923712" alt="A-P-Shukla's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=A-P-Shukla&theme=dark&hide_border=true&cache_seconds=86400&cb=1780232552" alt="A-P-Shukla's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=A-P-Shukla&theme=dark&hide_border=true&cache_seconds=86400&cb=1780923712" alt="A-P-Shukla's GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=A-P-Shukla&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400&cb=1780232552" alt="'s GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=A-P-Shukla&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400&cb=1780923712" alt="'s GitHub Trophies" />
 </p>
 
 ## 🛠️ Languages & Tools
 
 <p align="center">
   <a href="https://github.com/A-P-Shukla">
-    <img height="180em" src="https://github-readme-stats-tau-five-34.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=radical&cb=1780232552" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-tau-five-34.vercel.app/api/top-langs/?username=A-P-Shukla&layout=donut&count_private=true&theme=radical&cb=1780923712" alt="Top Languages" />
   </a>
 </p>
 
