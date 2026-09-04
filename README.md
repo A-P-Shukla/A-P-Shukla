@@ -22,7 +22,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue&cb=1781264394)
 
 > **🧠 AI Insight:**
-_This developer is building a sophisticated portfolio centered on Generative AI agents and Computer Vision applications, backed by a deep academic foundation in algorithms and backend engineering._
+_Akhand is evolving from algorithmic problem solving into production-oriented AI engineering. His portfolio combines agentic systems and MCP tooling with practical products such as an AI-powered ASL learning platform, an AWS-backed agricultural assistant, and browser automation agents. The common thread is applied intelligence: connecting models to tools, APIs, vision pipelines, and reliable backend services rather than treating AI as an isolated demo._
 
 ---
 
@@ -38,8 +38,9 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 
 | 🤖 Generative AI & Autonomous Agents | 👁️ Computer Vision & Applied ML | 💻 Software Engineering & CS Fundamentals |
 | :---: | :---: | :---: |
-| `6` Projects | `4` Projects | `17` Projects |
-| Google Gemini, LangChain | MediaPipe, YOLO | Python, Java, C++ |
+| `9+` Projects | `5+` Projects | `20+` Projects |
+| Gemini, MCP, browser automation, RAG | ASL recognition, MediaPipe, YOLO, OpenCV | Python, C/C++, Java, TypeScript, FastAPI |
+| Tool-using agents and AI assistants | Assistive technology and real-time vision | APIs, security, cryptography, algorithms, full-stack systems |
 
 ---
 
