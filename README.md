@@ -44,7 +44,11 @@ _This developer is building a sophisticated portfolio centered on Generative AI 
 ---
 
 ### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=A-P-Shukla&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&cb=1781264394"/>
+<p align="center">
+  <a href="https://github.com/A-P-Shukla">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-P-Shukla&theme=github_dark" alt="A-P-Shukla's GitHub contribution activity" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=A-P-Shukla">
