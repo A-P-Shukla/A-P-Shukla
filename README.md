@@ -7,16 +7,16 @@
 
 <!-- LEETCODE_START -->
 ### Latest LeetCode Solution
-- [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/A-P-Shukla/LeetCode/blob/main/3559-number-of-ways-to-assign-edge-weights-ii/solution.py)
+- [4284-smallest-stable-index-i](https://github.com/A-P-Shukla/LeetCode/blob/main/LeetSync/4284-smallest-stable-index-i/smallest-stable-index-i.cpp)
 <!-- LEETCODE_END -->
 
 <!-- ACTIVITY_START -->
 ### Recent GitHub Activity
-- Committed to a private repository: fix: update test script to include --run flag for vitest
-- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): feat: add Python solution for 3559 - Number of Ways to Assign Edge Weights II
-- Committed to [fastapi_blog](https://github.com/A-P-Shukla/fastapi_blog): feat: add comprehensive tests for /api/posts and /api/users endpoints with various scenarios
-- Committed to [mcp](https://github.com/A-P-Shukla/mcp): v0.6.1: leave_review tool + REFLEX C, README rewrite for launch
-- Committed to [RAG](https://github.com/A-P-Shukla/RAG): feat: implement document loaders for text, web, directory, and PDF files
+- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): Time: 0 ms (100.00%) | Memory: 31.1 MB (66.39%) - LeetSync
+- Committed to [Recover-Net](https://github.com/A-P-Shukla/Recover-Net): Update README.md for AWS Bedrock integration and remove batch_results.json
+- Committed to [Blind-Log](https://github.com/A-P-Shukla/Blind-Log): docs: add security policy, developer documentation, and pypi publishing guide
+- Committed to [gallaudet](https://github.com/A-P-Shukla/gallaudet): chore: migrate backend command execution to uv and add security audit documentation
+- Committed to [citegraph](https://github.com/A-P-Shukla/citegraph): feat: project documentation and implement robust BFS neighbor extraction, request throttling, and adaptive backoff logic
 <!-- ACTIVITY_END -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue&cb=1781264394)
