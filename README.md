@@ -7,7 +7,7 @@
 
 <!-- LEETCODE_START -->
 ### Latest LeetCode Solution
-- [4284-smallest-stable-index-i](https://github.com/A-P-Shukla/LeetCode/blob/main/LeetSync/4284-smallest-stable-index-i/smallest-stable-index-i.cpp)
+- [3904-smallest-stable-index-ii](https://github.com/A-P-Shukla/LeetCode/blob/main/3904-smallest-stable-index-ii/solution.cpp)
 <!-- LEETCODE_END -->
 
 <!-- ACTIVITY_START -->
