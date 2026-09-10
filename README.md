@@ -28,7 +28,7 @@ _Akhand is evolving from algorithmic problem solving into production-oriented AI
 
 ### 🛠️ **Tech Stack**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,jupyter,typescript,javascript,cpp,c,java,r,html,css,react,nextjs,nodejs,fastapi,flask,postgres,mongodb,redis,docker,aws,linux,git&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,c,java,r,html,css,react,nextjs,nodejs,fastapi,flask,postgres,mongodb,redis,docker,aws,linux,git&perline=14" />
 </div>
 
 ---
