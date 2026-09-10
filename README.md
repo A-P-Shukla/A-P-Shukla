@@ -7,16 +7,16 @@
 
 <!-- LEETCODE_START -->
 ### Latest LeetCode Solution
-- [3904-smallest-stable-index-ii](https://github.com/A-P-Shukla/LeetCode/blob/main/3904-smallest-stable-index-ii/solution.cpp)
+- [2265-count-nodes-equal-to-average-of-subtree](https://github.com/A-P-Shukla/LeetCode/blob/main/2265-count-nodes-equal-to-average-of-subtree/solution.py)
 <!-- LEETCODE_END -->
 
 <!-- ACTIVITY_START -->
 ### Recent GitHub Activity
-- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): Time: 0 ms (100.00%) | Memory: 31.1 MB (66.39%) - LeetSync
-- Committed to [Recover-Net](https://github.com/A-P-Shukla/Recover-Net): Update README.md for AWS Bedrock integration and remove batch_results.json
-- Committed to [Blind-Log](https://github.com/A-P-Shukla/Blind-Log): docs: add security policy, developer documentation, and pypi publishing guide
+- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): Time: 54 ms (42.46%) | Memory: 19.6 MB (69.46%) - LeetSync
+- Committed to [Blind-Log](https://github.com/A-P-Shukla/Blind-Log): chore: add documentation while updating version to 1.2.1
+- Committed to a private repository: docs: update README with course details, repository contents, and project setup instructions
+- Committed to [Recover-Net](https://github.com/A-P-Shukla/Recover-Net): docs: update workload execution commands in README
 - Committed to [gallaudet](https://github.com/A-P-Shukla/gallaudet): chore: migrate backend command execution to uv and add security audit documentation
-- Committed to [citegraph](https://github.com/A-P-Shukla/citegraph): feat: project documentation and implement robust BFS neighbor extraction, request throttling, and adaptive backoff logic
 <!-- ACTIVITY_END -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue&cb=1781264394)
