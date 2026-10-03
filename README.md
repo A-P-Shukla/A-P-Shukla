@@ -7,16 +7,16 @@
 
 <!-- LEETCODE_START -->
 ### Latest LeetCode Solution
-- [2265-count-nodes-equal-to-average-of-subtree](https://github.com/A-P-Shukla/LeetCode/blob/main/2265-count-nodes-equal-to-average-of-subtree/solution.py)
+- [32-longest-valid-parentheses](https://github.com/A-P-Shukla/LeetCode/blob/main/32-longest-valid-parentheses/solution.py)
 <!-- LEETCODE_END -->
 
 <!-- ACTIVITY_START -->
 ### Recent GitHub Activity
-- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): Time: 54 ms (42.46%) | Memory: 19.6 MB (69.46%) - LeetSync
+- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): Time: 0 ms (100.00%) | Memory: 11.6 MB (83.80%) - LeetSync
+- Committed to [unsloth](https://github.com/A-P-Shukla/unsloth): Studio: train an uploaded CSV's NA, None and 00501 cells as written (#12379)
+- Committed to [graphify](https://github.com/A-P-Shukla/graphify): docs(changelog): note auto-refresh of stale skills (#3895) in 0.9.72
+- Committed to [graphrag](https://github.com/A-P-Shukla/graphrag): Release v3.2.0 (#2572)
 - Committed to [Blind-Log](https://github.com/A-P-Shukla/Blind-Log): chore: add documentation while updating version to 1.2.1
-- Committed to a private repository: docs: update README with course details, repository contents, and project setup instructions
-- Committed to [Recover-Net](https://github.com/A-P-Shukla/Recover-Net): docs: update workload execution commands in README
-- Committed to [gallaudet](https://github.com/A-P-Shukla/gallaudet): chore: migrate backend command execution to uv and add security audit documentation
 <!-- ACTIVITY_END -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=A-P-Shukla&color=blue&cb=1781264394)
