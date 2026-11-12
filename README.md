@@ -2,20 +2,20 @@
 
 <!-- FOCUS_START -->
 ### 🎯 Current Focus
-- **Currently working on:** a private repository: fix: update test script to include --run flag for vitest
+- **Currently working on:** [LeetCode](https://github.com/A-P-Shukla/LeetCode) (Public) — Time: 1 ms (58.21%) | Memory: 19.2 MB (82.93%) - LeetSync
 <!-- FOCUS_END -->
 
 <!-- LEETCODE_START -->
 ### Latest LeetCode Solution
-- [32-longest-valid-parentheses](https://github.com/A-P-Shukla/LeetCode/blob/main/32-longest-valid-parentheses/solution.py)
+- [3105-longest-strictly-increasing-or-strictly-decreasing-subarray/solution.py](https://github.com/A-P-Shukla/LeetCode/blob/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/solution.py)
 <!-- LEETCODE_END -->
 
 <!-- ACTIVITY_START -->
 ### Recent GitHub Activity
-- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): Time: 0 ms (100.00%) | Memory: 11.6 MB (83.80%) - LeetSync
-- Committed to [unsloth](https://github.com/A-P-Shukla/unsloth): Studio: train an uploaded CSV's NA, None and 00501 cells as written (#12379)
-- Committed to [graphify](https://github.com/A-P-Shukla/graphify): docs(changelog): note auto-refresh of stale skills (#3895) in 0.9.72
-- Committed to [graphrag](https://github.com/A-P-Shukla/graphrag): Release v3.2.0 (#2572)
+- Committed to [LeetCode](https://github.com/A-P-Shukla/LeetCode): Time: 1 ms (58.21%) | Memory: 19.2 MB (82.93%) - LeetSync
+- Committed to [litellm](https://github.com/A-P-Shukla/litellm): test(responses): isolate cancel wire checks from background polling (#50002)
+- Committed to [AegisSRE](https://github.com/A-P-Shukla/AegisSRE): feat(test): Add end-to-end pipeline integration and reasoning smoke tests
+- Committed to [unsloth](https://github.com/A-P-Shukla/unsloth): Studio: classify host pinning by the target device, not the current one (#15463)
 - Committed to [Blind-Log](https://github.com/A-P-Shukla/Blind-Log): chore: add documentation while updating version to 1.2.1
 <!-- ACTIVITY_END -->
 
